@@ -6,5 +6,5 @@
 
 ## 結果
 ---
-Greedy 大勝利！
 ![](http://i.imgur.com/in3RGCX.png)
+Greedy 大勝利！
